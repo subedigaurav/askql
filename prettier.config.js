@@ -5,7 +5,7 @@ module.exports = {
       options: {
         parser: 'typescript',
         singleQuote: true,
-        endOfLine: 'lf',
+        endOfLine: 'auto',
       },
     },
     {
